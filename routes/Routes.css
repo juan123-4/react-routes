@@ -1,0 +1,29 @@
+
+h1{
+    color: orange;
+}
+h2{
+    color: red;
+}
+
+.link-container {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px; 
+    justify-content: center; 
+}
+
+a {
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.link-container a:hover {
+    background-color: #2980b9;
+}
+ul li{
+    list-style-type: none;
+}
